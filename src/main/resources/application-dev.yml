@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://10.2.62.51;databaseName=CIF_REFERENCE;encrypt=true;trustServerCertificate=true;
+    username: sa
+    password: Bukopin@2020
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServer2008Dialect
+        show_sql: false
+        
+        
