@@ -25,6 +25,7 @@ Spring-boot project for CIF Service that focused on Referrence, is included with
 
 ##Author
 - [7879720] Sufyan Saori
+- [71379822] Rizky Ramadhan
 
 ##Documentation
 Please read /doc folder for documentation, like SQL and API postman 
